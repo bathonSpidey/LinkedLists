@@ -2,7 +2,7 @@ using LinkedLists;
 
 namespace LinkedListsTests
 {
-    public class LinkedListTests
+    public sealed class LinkedListTests
     {
         [SetUp]
         public void CreateCharList()
